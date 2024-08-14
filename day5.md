@@ -1,6 +1,6 @@
 ### Day 5
 - Question 1: sudoko solver (https://leetcode.com/problems/sudoku-solver/description/)
- key point: complete 1 cell by trying all values in it and recursion will complete the rest.write isSafe function and perform backtrack. 
+ key point: complete 1 cell by trying all values in it and recursion will complete the rest.write isSafe function and perform backtrack. create bool solve function, 3*3 matrix is formed by [3*(r/3)+i/3][3*(c/3)+i%3].
 
 - Question 2: subsets (https://leetcode.com/problems/subsets/description/) 
 key point : include and exclude each element (perform for one and call recursion for rest).create a vector, include an element by pushing it into vector and then calling index+1, exclude an element by directly calling index+1 . (index: 0-> nums.size()...reaches base case at nums.size() (push output into ans on reaching base case)).
