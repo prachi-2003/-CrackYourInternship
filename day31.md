@@ -11,7 +11,3 @@
 - Question 5: Permute two arrays such that sum of every pair is greater or equal to K (https://www.geeksforgeeks.org/permute-two-arrays-sum-every-pair-greater-equal-k/)
 
 - Question 6: Ceiling in a sorted array (https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/)
-
-- Question 7: Find pair given difference (https://www.geeksforgeeks.org/problems/find-pair-given-difference1559/1)
-
-- Question 8: Permutations in an array (https://www.geeksforgeeks.org/problems/permutations-in-array1747/1)
