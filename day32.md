@@ -14,4 +14,4 @@
 
 - Question 7: Allocate minimum number of pages(https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1)
 
-- Question 8: Aggresive cows (https://www.naukri.com/code360/problems/aggressive-cows_1082559?utm_source=striver&utm_medium=website&utm_campaign=codestudio_a_zcourse&leftPanelTabValue=PROBLEM)
+- Question 8: Aggresive cows (https://www.naukri.com/code360/problems/aggressive-cows_1082559?utm_source=striver&utm_medium=website&utm_campaign=codestudio_a_zcourse&leftPanelTabValue=PROBLEM)day
