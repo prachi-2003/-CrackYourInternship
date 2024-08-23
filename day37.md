@@ -1,4 +1,4 @@
-### Day 36
+### Day 37
 
 - Question 1: Partition list (https://leetcode.com/problems/partition-list/description/)
 
